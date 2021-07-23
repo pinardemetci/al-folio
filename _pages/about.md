@@ -2,23 +2,23 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: Internet Measurement and Data Expert at <a href="https://internetsociety.org">The Internet Society</a><br>PhD Researcher at <a href="http://www.sit.uct.ac.za/">University of Cape Town</a>, South Africa
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-news: true  # includes a list of news items
+    <p>Get in touch!</p>
+    <p>phokeer_at_isoc_dot_org</p>
+    <p>Located in Mauritius</p>
+    
+social: true
+news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Bored <a href="https://en.wikipedia.org/wiki/Mauritius">islander</a>, always trying to find a excuse to step on a plane in a perpetual quest for newness. Dad x3, trail runner, scuba diver and watercolour enthusiast in a past life...will get back to these one day.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Currently working as an Internet Measurement Expert at ISOC to untangle this giant web.  My areas of interest are Interdomain routing, network security, Internet measurements, content delivery and QoE, with a particular emphasis on African networks. I am a co-chair of the <a href="https://afrinic.net/committees/measurement-wg">AFRINIC Measurement Working Group</a>. On the side, I am a Research Committee member of the <a href="https://thegfce.org/">GFCE</a> and I am a frequent speaker at NOG meetings in Africa. I enjoy reviewing papers as a TPC member of several academic and technical conferences including ACM Internet Measurement Conference (IMC), Traffic Measurement and Analysis (TMA), AFRICOMM, AFPIF, AIS, SAFNOG, etc.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am currently completing a PhD in Computer Science at the University of Cape Town, South Africa. I obtained an M.Eng in Computer Engineering at Telecom Nancy, France (2008) and an MSc in Information Security at the University of London, UK (2013). Between 2008 and 2010, I worked as a Guest Researcher at NIST in the Information Discovery, Use and Sharing division, working in the field of Computational Biology, assisting researchers with software instrumentation.
